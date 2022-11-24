@@ -32,12 +32,6 @@ Facultad de Ciencias de la Vida
 <tr>
   <td>LAPTOP-I58SGI7Q</td>
   <td>Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz</td>
-  <td>16:00 - 20:00</td>
-</tr>
-
-<tr>
-  <td>HTML</td>
-  <td>20</td>
   <td>18,00 GB</td>
   <td>DBE46B3C-F038-4758-A7C4-614B318F2BD6</td>
   <td>00327-70000-00001-AA727</td>
