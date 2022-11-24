@@ -17,8 +17,6 @@ Facultad de Ciencias de la Vida
 <head><title>Datos del equipo</title></head>
 <body>
 
-<h1>Datos del equipo</h1>
-
 <table>
 <tr>
   <td><strong>Nombre del Dispositivo</strong></td>
