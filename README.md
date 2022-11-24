@@ -14,7 +14,7 @@ Facultad de Ciencias de la Vida
 *Signo Zodiacal:* Tauro
 ## *Datos del equipo en forma de tabla*
 <html>
-<head><title>Datos del equipo</title></head>
+
 <body>
 
 <table>
