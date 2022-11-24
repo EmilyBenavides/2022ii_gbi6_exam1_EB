@@ -13,12 +13,40 @@ Facultad de Ciencias de la Vida
 *Edad:* 22 Años y 6 meses
 *Signo Zodiacal:* Tauro
 ## *Datos del equipo en forma de tabla*
+<html>
+<head><title>Datos del equipo</title></head>
+<body>
+
+<h1>Datos del equipo</h1>
+
 <table>
-  <tr>
-    <tr>Nombre del Dispositivo</th>
-    <th style="background-color: pink">LAPTOP-I58SGI7Q</th>
-  </tr>
-  <tr>
-  <td>Procesador</td>
-  <td style="background-color: pink">Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz</td>
-    
+<tr>
+  <td><strong>Nombre del Dispositivo</strong></td>
+  <td><strong>Procesador</strong></td>
+  <td><strong>RAM Instalada</strong></td>
+  <td><strong>Identificador del Dispositivo</strong></td>
+  <td><strong>I.D del Producto</strong></td>
+  <td><strong>Tipo de Sistema</strong></td>
+</tr>
+
+<tr>
+  <td>CSS</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+
+<tr>
+  <td>HTML</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+
+<tr>
+  <td>Dreamweaver</td>
+  <td>60</td>
+  <td>16:00 - 20:00</td>
+</tr>
+</table>
+
+</body>
+</html>
